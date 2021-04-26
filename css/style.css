@@ -1,0 +1,31 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Assistant:wght@200;300;400&family=Libre+Franklin:ital,wght@0,100;0,200;0,300;1,100;1,200&family=Lora:wght@400;500&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'Libre Franklin', sans-serif;
+	font-size : 18px;
+	margin: 0px;
+	background: white;
+	color: black; 
+
+}
+
+h1, h2 {
+	font-family:'Lora', serif;
+	font-weight: 500; 
+}
+
+h3 {
+	font-family: 'Libre Franklin', sans-serif;
+	font-size : 40px;
+}
+
+a{
+	text-decoration: none; 
+}
